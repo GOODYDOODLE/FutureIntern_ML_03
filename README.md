@@ -2,7 +2,7 @@
 ### 1. Data Splitting
 The first step in our process involved splitting the dataset into two parts: training data and testing data. This was accomplished using the splitfolders module, with an 80/20 ratio—80% of the data was allocated for training the model, and the remaining 20% was reserved for testing. This division ensures that the model has a robust dataset to learn from while also having sufficient data to validate its performance.
 
-![Screenshot 2024-12-07 182657](https://github.com/user-attachments/assets/09b05b55-f4ad-4148-96a0-1287374e4e09)
+![Screenshot 2024-12-07 182657](https://github.com/user-attachments/assets/4962cff5-8f9d-446e-aa1b-ffb88b21f607)
 
 ### 2. Image Transformation
 Subsequently, we transformed the images to the required size suitable for the pre-trained model parameters. This step is crucial as it ensures compatibility with the model’s input specifications, thereby enabling accurate and efficient processing of the data.
